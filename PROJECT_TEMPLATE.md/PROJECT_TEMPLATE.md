@@ -1,1 +1,1 @@
-mech-lab/
+mech-lab/&#x20; README.md                  table of all projects: ID, name, status, link&#x20; PROJECT\_TEMPLATE.md&#x20; .gitignore&#x20; .gitattributes&#x20; phase00\_setup/&#x20;   0-1\_lab-in-a-box/&#x20; phase01a\_python-basics/&#x20;   1A-1\_unit-converter/&#x20;     README.md&#x20;     src/&#x20;     tests/&#x20;     results/&#x20; phase01b\_structuring-programs/&#x20; ...&#x20; track\_c/&#x20; track\_matlab/&#x20; track\_cad/&#x20; capstone/&#x20; bonus/&#x20; boosters/&#x20; ml/&#x20; games/
